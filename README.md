@@ -1,4 +1,6 @@
 ![Logo UNAHUR](./UNAHUR.png)
+![WhatsApp Image 2026-03-05 at 20 34 10](https://github.com/user-attachments/assets/ea135fbf-1604-49b6-b659-8541e45ef4e0)
+
 
 # Programación con objetos I
 ## Presentación Personal
